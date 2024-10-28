@@ -7,7 +7,7 @@ Pasos para el setup
 python -m pip install -r requirements.txt
 ```
 
-**Activar el entorno virtual **
+**Activar el entorno virtual**
 
 ```
 source dev_env/bin/activate
