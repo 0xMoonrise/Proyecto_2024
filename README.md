@@ -1,6 +1,8 @@
 # Proyecto_2024
 Proyecto para la semana de sistemas
+
 Pasos para el setup
+
 **Instalar Dependencias**
 
 ```
