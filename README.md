@@ -1,13 +1,15 @@
 # Proyecto_2024
 Proyecto para la semana de sistemas
+
 Pasos para el setup
+
 **Instalar Dependencias**
 
 ```
 python -m pip install -r requirements.txt
 ```
 
-**Activar el entorno virtual **
+**Activar el entorno virtual**
 
 ```
 source dev_env/bin/activate
@@ -20,6 +22,7 @@ streamlit run app.py
 ```
 
 **Salvar cambios en git**
+
 paso 1
 ```
 git add .
