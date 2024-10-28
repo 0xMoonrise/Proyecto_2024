@@ -20,6 +20,7 @@ streamlit run app.py
 ```
 
 **Salvar cambios en git**
+
 paso 1
 ```
 git add .
