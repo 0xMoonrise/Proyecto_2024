@@ -19,3 +19,4 @@ for punto in puntos_interes:
     ).add_to(mapa)
 
 st_folium(mapa, width=725)
+#test
